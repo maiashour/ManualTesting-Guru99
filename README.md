@@ -1,5 +1,7 @@
 # ManualTesting-Guru99
+
 Manual Testing of Guru99 Bank Demo Website
+
 📝 Project Description:
 
 This project involved performing manual testing on the Guru99 Bank Demo website, which simulates an online banking system.
@@ -33,15 +35,24 @@ integration Testing
 
 ⚙️Features Tested:
 
-1	Fund Transfer	
+1	Fund Transfer	 
+
 2	Balance Enquiry	
+
 3	Mini Statement
+
 4	Customized Statement
+
 5	New Account
+
 6	Delete Customer
+
 7	Edit Account
+
 8	Delete Account
+
 9	Edit Customer
+
 📋 Testing Process:
 
 Requirement Understanding:
