@@ -62,10 +62,8 @@ Test Case Design:
 Wrote detailed test cases for each feature covering positive and negative scenarios.
 
 Test Execution:
-Performed tests manually on each feature using test data.
+Performed tests manually on each feature using test data. 
 
 Bug Reporting:
-Logged bugs and screenshots into a defect sheet.
+Logged bugs into a defect sheet.
 
-Re-Testing:
-Rechecked functionalities after fixes or refreshes.
